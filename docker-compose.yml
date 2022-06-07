@@ -28,3 +28,4 @@ services:
       - 8080:80
     environment: 
       PMA_ABSOLUTE_URI: http://php
+J
